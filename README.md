@@ -6,3 +6,5 @@ To start your Phoenix server:
     Start Phoenix endpoint with mix phx.server or inside IEx with iex -S mix phx.server
 
 Now you can visit localhost:4000 from your browser.
+
+liveLink : https://counter.fly.dev/
